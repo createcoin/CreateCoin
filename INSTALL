@@ -1,0 +1,9 @@
+Building CreateCoin
+
+See doc/readme-qt.rst for instructions on building CreateCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CreateCoin.
+
+See doc/build-*.txt for instructions on building CreateCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CreateCoin.
